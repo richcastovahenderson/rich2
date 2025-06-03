@@ -1,2 +1,4 @@
-# rich2
-perdana
+apa 
+aja
+deh
+
